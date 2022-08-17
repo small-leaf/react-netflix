@@ -1,7 +1,7 @@
 ＃專案簡介
 本專案為復刻 nerflix 前台畫面及串接 TMDB 取得電影資訊及 stripe 金流實現訂閱制功能，資料庫則是使用 firebase
 
-> 網站連結 [react-netflix](https://react-netflix-a0aad.web.app/
+> 網站連結 https://react-netflix-a0aad.web.app/
 
 ## 使用技術
 * 前端框架
